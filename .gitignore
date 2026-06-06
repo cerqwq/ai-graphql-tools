@@ -1,10 +1,10 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.db
 *.log
-.env
 *.egg-info/
 dist/
 build/
+.env
 .venv/
 venv/
